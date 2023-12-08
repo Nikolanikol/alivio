@@ -1,0 +1,36 @@
+
+
+body{
+    font-family: 'Lato', serif;
+    font-size: 25px;
+    font-weight: 500;
+}
+.container{
+    max-width: 1405px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.container-small{
+    max-width: 1370px;
+}
+.small-card-container{
+    max-width: 212px;
+}
+.green-button{
+    padding: 13px 15px;
+    background-color: $light-green;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 4px;
+    font-weight: 400;
+}
+.big{
+    padding: 20px 50px;
+}
+.mb35{
+    margin-bottom: 35px;
+}
+.df{
+    display: flex;
+    column-gap: 130px;
+}

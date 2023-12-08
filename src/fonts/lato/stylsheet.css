@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Latto';
+    src: local('Latto'),
+        url('Lato-Regular.ttf') format('truetype'),;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Latto';
+    src: local('Lato Medium'), local('Lato-Medium'),
+        url('Lato-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: local('Lato Semibold'), local('Lato-Semibold'),
+        url('Lato-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
